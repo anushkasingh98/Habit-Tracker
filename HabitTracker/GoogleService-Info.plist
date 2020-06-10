@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>402363074274-8bqujc08a3hng6qpqucg5aq0eu9e80hp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.402363074274-8bqujc08a3hng6qpqucg5aq0eu9e80hp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDRDtVFMp4Wjofi0Ejv9RDaeTH0HibalCo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>402363074274</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.HabitTracker</string>
+	<key>PROJECT_ID</key>
+	<string>habit-tracker-habitude</string>
+	<key>STORAGE_BUCKET</key>
+	<string>habit-tracker-habitude.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:402363074274:ios:6f59f93801c168cbb740bb</string>
+	<key>DATABASE_URL</key>
+	<string>https://habit-tracker-habitude.firebaseio.com</string>
+</dict>
+</plist>
